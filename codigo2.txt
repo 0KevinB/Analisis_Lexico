@@ -1,0 +1,5 @@
+// Funcion para sumar numeros
+a = 1;
+b = a + 2;
+c = "Hola mundo";
+return a + b;

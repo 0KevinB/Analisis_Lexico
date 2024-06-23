@@ -1,0 +1,17 @@
+if
+else
+variable1
+123
+45.67
++
+-
+(
+)
+{
+}
+;
+,
+"hola mundo"
+return
+// Esto es un comentario
+/* Esto es un comentario de bloque */
